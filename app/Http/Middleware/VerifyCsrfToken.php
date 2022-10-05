@@ -12,6 +12,6 @@ class VerifyCsrfToken extends Middleware
      * @var array<int, string>
      */
     protected $except = [
-        https://e157-196-190-61-128.eu.ngrok.io,
+        '/botman',
     ];
 }
